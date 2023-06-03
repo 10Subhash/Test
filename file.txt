@@ -9,3 +9,7 @@ This change is added by me using git
 Thanks
 
 now this is another change
+
+this is a child commit
+
+Thanks
