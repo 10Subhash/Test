@@ -1,4 +1,11 @@
 Hi
 this is m first commit
 
+
 this is added from the git hub
+
+This change is added by me using git 
+
+Thanks
+
+
