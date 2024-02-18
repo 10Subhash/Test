@@ -1,17 +1,1 @@
-Hi
-this is m first commit
-
-
-this is added from the git hub
-
-This change is added by me using git 
-
-Thanks
-
-now this is another change
-
-this is a child commit
-
-Thanks
-
-now i am going to add latest changes
+i am adding new data after such a long time
